@@ -17,7 +17,7 @@
     <description>Program-Service</description>
 
     <properties>
-        <java.version>25</java.version>
+        <java.version>17</java.version>
         <mapstruct.version>1.6.3</mapstruct.version>
         <spring-cloud.version>2025.1.0</spring-cloud.version>
     </properties>
